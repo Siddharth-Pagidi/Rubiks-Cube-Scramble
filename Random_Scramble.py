@@ -1,7 +1,7 @@
 # A simple Rubik's cube scrambler
 import random as rand
 
-print("\n")
+print(" ")
 moves = ["R", "L", "F", "B", "U", "D", "M",
          "R'", "L'", "F'", "B'", "U'", "D'", "M'",
          "R2", "L2", "F2", "B2", "U2", "D2", "M2",
